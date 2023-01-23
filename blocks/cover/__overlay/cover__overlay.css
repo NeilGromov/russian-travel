@@ -51,7 +51,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .cover__cover-bg-image {
+  .cover__overlay {
     min-height: 216px;
   }
 }
